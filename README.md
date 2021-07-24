@@ -38,3 +38,10 @@ The Client has Different Features Like:
 - [ ] KeyStrokes and HUDs
 - [ ] Settings For Low-End
 
+## Installation:
+**Note:** The Above #Prerequisite is Required To Install The Client.
+- Download the Client From The Latest Release.
+- Install the Client to The Minecraft Directory.
+- After Installation, Open Minecraft Launcher
+- Search For The Client in Versions and Select it.
+- Click Play and Done!
