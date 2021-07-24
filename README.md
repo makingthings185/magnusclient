@@ -23,6 +23,7 @@ The Client has Different Features Like:
 
 ## Prerequisite:
 - :coffee: Java 8 or Above
+- Minecraft Launcher Official or Cracked Launcher (like TLauncher, Mineshafter, etc)
 
 ## What's Left to be Added/Fixed:
 - [ ] Versions
