@@ -21,6 +21,9 @@ The Client has Different Features Like:
 
 ### Currently in Beta & Not Released Yet
 
+## Prerequisite:
+- :coffee: Java 8 or Above
+
 ## What's Left to be Added/Fixed:
 - [ ] Versions
 - [ ] FPS Boost Programe
