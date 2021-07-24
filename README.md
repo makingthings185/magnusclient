@@ -38,6 +38,10 @@ The Client has Different Features Like:
 - [ ] KeyStrokes and HUDs
 - [ ] Settings For Low-End
 
+## Download:
+
+### Coming Soon!
+
 ## Installation:
 **Note:** The Above #Prerequisite is Required To Install The Client.
 - Download the Client From The Latest Release.
